@@ -1,4 +1,4 @@
-# zzdl
+# Coodler
 Downloader for coomer.su. Downloads all videos from a coomer.su profile. 
 
 ## Requirements for the script
